@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>comment</name>
+    </assembly>
+    <members>
+        <member name="M:Program.Main(System.String[])">
+            <summary>
+            this is XML comment
+            </summary>
+        </member>
+    </members>
+</doc>
